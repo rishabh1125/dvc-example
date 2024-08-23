@@ -4,7 +4,7 @@ import joblib
 import warnings
 warnings.filterwarnings('ignore')
 
-model_path = 'classification_model/native_distilbert-base-cased.model'
+model_path = 'classification_model/updated_distilebert.model'
 model = joblib.load(model_path)
 tokenizer = AutoTokenizer.from_pretrained('distilbert-base-cased')
 

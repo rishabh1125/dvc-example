@@ -6,7 +6,7 @@ The project is built on python 3.12
 <ol>
 <li>sentiment_analysis.py -> This is a python file that runs predicts sentiment </li>
 <li>requirements.txt -> package requirements to be used in the file. </li>
-<li>classification_model/native_distilbert-base-cased.dvc -> Our classification model.</li>
+<li>classification_model/updated_distilebert.model.dvc -> DVC image of our classification model.</li>
 
 
 ## How to run program

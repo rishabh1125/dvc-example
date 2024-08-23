@@ -1,0 +1,6 @@
+outs:
+- md5: b7b9a3fab714196f8bcfddfe40c93648
+  size: 263186112
+  isexec: true
+  hash: md5
+  path: updated_distilebert.model
